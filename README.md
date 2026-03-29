@@ -1,6 +1,4 @@
-[![rodrih1 GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrih1&show_icons=true&theme=transparent)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrih1)](https://github.com/anuraghazra/github-readme-stats)
 
 ![@katana #30NitesOfCode](https://www.codedex.io/api/petStatus?user=katana)
 
